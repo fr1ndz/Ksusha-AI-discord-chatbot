@@ -7,7 +7,7 @@
 ```
 
 ```
-| `/chat` | prompt |
+| /chat | 'prompt' |
 ```
 
 <h3 align="center">if you'd like to donate to me</h3>
