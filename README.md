@@ -15,7 +15,7 @@ To get started with Ksusha AI, follow these steps:
    ```
 **Interact with the Bot:** Use the /chat command followed by your prompt to interact with Ksusha AI.
    ```bash
-   /chat 'your prompt here'
+   python bot.py
    ```
 
 <h3 align="center">If you find Ksusha AI useful and would like to support its development, consider donating:</h3>
@@ -30,6 +30,7 @@ To get started with Ksusha AI, follow these steps:
   </a>
 </div>
 
+###
 Your support helps keep this project alive and thriving!
 Thank you for using Ksusha AI! 
 
