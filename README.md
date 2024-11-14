@@ -1,16 +1,22 @@
-# Ksusha-AI-Discord-bot
- Ksusha AI is a discord chatbot based on google gemini.
+# Ksusha AI Discord Bot
 
-# Getting Started
-```bash
-    bot.py
-```
+Ksusha AI is a Discord chatbot powered by Google Gemini. It provides intelligent and interactive responses to user queries within your Discord server.
 
-```
-| /chat | 'prompt' |
-```
+## Getting Started
 
-<h3 align="center">if you'd like to donate to me</h3>
+To get started with Ksusha AI, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine.
+2. **Install Dependencies**: Ensure you have all the necessary dependencies installed.
+3. **Run the Bot**: Execute the bot script using the following command:
+
+   ```bash
+   python bot.py
+   
+**Interact with the Bot:** Use the /chat command followed by your prompt to interact with Ksusha AI.
+/chat 'your prompt here'
+
+<h3 align="center">If you find Ksusha AI useful and would like to support its development, consider donating:</h3>
 
 ###
 
