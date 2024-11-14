@@ -8,8 +8,7 @@ To get started with Ksusha AI, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine.
 2. **Install Dependencies**: Ensure you have all the necessary dependencies installed.
-3. **Run the Bot**: Execute the bot script using the following command:
-
+3. **Run the Bot**: Execute the bot script using the following command
    ```bash
    python bot.py
    ```
