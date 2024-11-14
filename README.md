@@ -12,12 +12,14 @@ To get started with Ksusha AI, follow these steps:
 
    ```bash
    python bot.py
-   
+   ```
 **Interact with the Bot:** Use the /chat command followed by your prompt to interact with Ksusha AI.
-/chat 'your prompt here'
+   ```bash
+   /chat 'your prompt here'
+   ```
 
 <h3 align="center">If you find Ksusha AI useful and would like to support its development, consider donating:</h3>
-
+  
 ###
 
 <br clear="both">
@@ -27,5 +29,8 @@ To get started with Ksusha AI, follow these steps:
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
   </a>
 </div>
+
+Your support helps keep this project alive and thriving!
+Thank you for using Ksusha AI! 
 
 ###
